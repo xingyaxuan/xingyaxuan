@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱She is currently pursuing a doctoral degree at Fudan University. Her current research direction is to use multi-source data for inversion of vegetation parameters.
+🌱She is currently pursuing a doctoral degree at Fudan University. 
+
+🌱Her current research direction is to use multi-source data for inversion of vegetation parameters.
 
 Here is her published paper
 
