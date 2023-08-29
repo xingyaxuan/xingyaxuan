@@ -20,6 +20,8 @@ CONTRIBUTORS: Yinghui Zhang; Hu An; Yaxuan Xing; Yang Liu; Tiankui Zhang Yinghui
 
 ✨2>  Distillation knowledge-based space-time data prediction on industrial IoT edge devices.
 
+The paper has open-source code ：https://github.com/xingyaxuan/KD-ST
+
 Ad Hoc Networks
 
 2022 | Journal article
